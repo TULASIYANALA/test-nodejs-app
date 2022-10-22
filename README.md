@@ -1,4 +1,4 @@
-# Build and Deploy nodejs application on EC2 instance - Freestyle 
+to auto trigger# Build and Deploy nodejs application on EC2 instance - Freestyle 
 
 # Pre-requisites
 
